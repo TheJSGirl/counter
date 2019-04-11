@@ -1,0 +1,6 @@
+[submodule "counter-client"]
+	path = counter-client
+	url = https://github.com/TheJSGirl/counter-client.git
+[submodule "visiter-counter"]
+	path = visiter-counter
+	url = https://github.com/TheJSGirl/visiter-counter.git
